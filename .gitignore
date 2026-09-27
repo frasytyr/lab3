@@ -1,0 +1,12 @@
+# Віртуальне середовище
+.venv/
+venv/
+
+# Дані варіанта не здаються
+variants/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
